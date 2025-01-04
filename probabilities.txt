@@ -1,1 +1,260 @@
 {2: {1: {'hit': 0.28125, 'stand': 0.1111111111111111}, 2: {'hit': 0.4117647058823529, 'stand': 0.34574468085106386}, 3: {'hit': 0.4632768361581921, 'stand': 0.35106382978723405}, 4: {'hit': 0.46116504854368934, 'stand': 0.375}, 5: {'hit': 0.4935064935064935, 'stand': 0.43452380952380953}, 6: {'hit': 0.42105263157894735, 'stand': 0.4371584699453552}, 7: {'hit': 0.3609467455621302, 'stand': 0.3037974683544304}, 8: {'hit': 0.33980582524271846, 'stand': 0.20652173913043478}, 9: {'hit': 0.3217821782178218, 'stand': 0.22413793103448276}, 10: {'hit': 0.2815126050420168, 'stand': 0.21156373193166886}}, 3: {1: {'hit': 0.19607843137254902, 'stand': 0.11702127659574468}, 2: {'hit': 0.4092219020172911, 'stand': 0.34656084656084657}, 3: {'hit': 0.43803418803418803, 'stand': 0.3723608445297505}, 4: {'hit': 0.448559670781893, 'stand': 0.43141153081510936}, 5: {'hit': 0.48747591522157996, 'stand': 0.4409282700421941}, 6: {'hit': 0.4793713163064833, 'stand': 0.4175152749490835}, 7: {'hit': 0.3125, 'stand': 0.23695652173913043}, 8: {'hit': 0.2565947242206235, 'stand': 0.2895238095238095}, 9: {'hit': 0.2422360248447205, 'stand': 0.24324324324324326}, 10: {'hit': 0.2890262751159196, 'stand': 0.2237512742099898}}, 4: {1: {'hit': 0.1669724770642202, 'stand': 0.0928030303030303}, 2: {'hit': 0.42105263157894735, 'stand': 0.35431654676258995}, 3: {'hit': 0.39065420560747666, 'stand': 0.37919463087248323}, 4: {'hit': 0.43605546995377503, 'stand': 0.38699690402476783}, 5: {'hit': 0.4255952380952381, 'stand': 0.43119266055045874}, 6: {'hit': 0.47242921013412814, 'stand': 0.4263803680981595}, 7: {'hit': 0.30104321907600595, 'stand': 0.2579113924050633}, 8: {'hit': 0.3002832861189802, 'stand': 0.2398190045248869}, 9: {'hit': 0.2796352583586626, 'stand': 0.2434017595307918}, 10: {'hit': 0.25850091407678244, 'stand': 0.21711270260082924}}, 5: {1: {'hit': 0.13282247765006386, 'stand': 0.1071863580998782}, 2: {'hit': 0.37529411764705883, 'stand': 0.3585798816568047}, 3: {'hit': 0.40074441687344914, 'stand': 0.35207823960880197}, 4: {'hit': 0.4339853300733496, 'stand': 0.44638694638694637}, 5: {'hit': 0.4677584442169908, 'stand': 0.45219123505976094}, 6: {'hit': 0.4677754677754678, 'stand': 0.45}, 7: {'hit': 0.29662698412698413, 'stand': 0.2818181818181818}, 8: {'hit': 0.2752752752752753, 'stand': 0.23023023023023023}, 9: {'hit': 0.24626121635094717, 'stand': 0.23554603854389722}, 10: {'hit': 0.2407060711420166, 'stand': 0.21606022584692597}}, 6: {1: {'hit': 0.15542521994134897, 'stand': 0.13286713286713286}, 2: {'hit': 0.3651844843897824, 'stand': 0.3640776699029126}, 3: {'hit': 0.41323106423777567, 'stand': 0.38878143133462284}, 4: {'hit': 0.43902439024390244, 'stand': 0.41045498547918685}, 5: {'hit': 0.45376549094375596, 'stand': 0.47838899803536344}, 6: {'hit': 0.4261414503133393, 'stand': 0.450530035335689}, 7: {'hit': 0.3, 'stand': 0.2568259385665529}, 8: {'hit': 0.2717013888888889, 'stand': 0.21473495058400718}, 9: {'hit': 0.2465986394557823, 'stand': 0.21066666666666667}, 10: {'hit': 0.23804251550044286, 'stand': 0.21152586771447282}}, 7: {1: {'hit': 0.13401253918495298, 'stand': 0.11144353029169783}, 2: {'hit': 0.3762301286903861, 'stand': 0.36964980544747084}, 3: {'hit': 0.4118092354277063, 'stand': 0.3874726875455208}, 4: {'hit': 0.4418429003021148, 'stand': 0.42824943651389935}, 5: {'hit': 0.47413127413127415, 'stand': 0.40721262208865516}, 6: {'hit': 0.44376899696048633, 'stand': 0.44717261904761907}, 7: {'hit': 0.28208647906657514, 'stand': 0.265406162464986}, 8: {'hit': 0.2774451097804391, 'stand': 0.23619846261355695}, 9: {'hit': 0.26472675656493966, 'stand': 0.24154589371980675}, 10: {'hit': 0.2313306177868296, 'stand': 0.21194705677464298}}, 8: {1: {'hit': 0.16666666666666666, 'stand': 0.1275121275121275}, 2: {'hit': 0.4181937172774869, 'stand': 0.36249171636845595}, 3: {'hit': 0.43104643104643103, 'stand': 0.41928571428571426}, 4: {'hit': 0.4608920491273432, 'stand': 0.418745785569791}, 5: {'hit': 0.5052631578947369, 'stand': 0.4524739583333333}, 6: {'hit': 0.5026990553306343, 'stand': 0.43732782369146006}, 7: {'hit': 0.4064516129032258, 'stand': 0.25928338762214986}, 8: {'hit': 0.3368226600985222, 'stand': 0.24686716791979949}, 9: {'hit': 0.3041332510795805, 'stand': 0.23268529769137303}, 10: {'hit': 0.26675828370743626, 'stand': 0.212443095599393}}, 9: {1: {'hit': 0.2281767955801105, 'stand': 0.11735537190082644}, 2: {'hit': 0.4815013404825737, 'stand': 0.37069468768242847}, 3: {'hit': 0.4983221476510067, 'stand': 0.39775910364145656}, 4: {'hit': 0.5275504637206765, 'stand': 0.43111366245694605}, 5: {'hit': 0.5262032085561498, 'stand': 0.4502473886750962}, 6: {'hit': 0.5274663677130045, 'stand': 0.4264297612437535}, 7: {'hit': 0.4745670995670996, 'stand': 0.24972436604189635}, 8: {'hit': 0.4184720638540479, 'stand': 0.2341880341880342}, 9: {'hit': 0.3376222336592898, 'stand': 0.24073133570340274}, 10: {'hit': 0.31626270523846756, 'stand': 0.2172957600827301}}, 10: {1: {'hit': 0.32912670368500757, 'stand': 0.11559272011805213}, 2: {'hit': 0.5604060913705584, 'stand': 0.3781855249745158}, 3: {'hit': 0.572452636968766, 'stand': 0.370126582278481}, 4: {'hit': 0.5950980392156863, 'stand': 0.40904621435594885}, 5: {'hit': 0.6416100872938895, 'stand': 0.4372448979591837}, 6: {'hit': 0.625914315569488, 'stand': 0.42864197530864195}, 7: {'hit': 0.573170731707317, 'stand': 0.25075528700906347}, 8: {'hit': 0.5599805730937348, 'stand': 0.2529746508018624}, 9: {'hit': 0.5194992778045258, 'stand': 0.22870418172431595}, 10: {'hit': 0.40822708684147224, 'stand': 0.2162514827995255}}, 11: {1: {'hit': 0.6949103528050896, 'stand': 0.48736566947429566}, 2: {'hit': 0.8294736842105264, 'stand': 0.689873417721519}, 3: {'hit': 0.8291139240506329, 'stand': 0.6977124183006536}, 4: {'hit': 0.8462977813418872, 'stand': 0.7121820615796519}, 5: {'hit': 0.8570688762299327, 'stand': 0.7369674517068008}, 6: {'hit': 0.8408968125337656, 'stand': 0.7068965517241379}, 7: {'hit': 0.8063552417164584, 'stand': 0.6453750331301352}, 8: {'hit': 0.7847448425624322, 'stand': 0.625168782068593}, 9: {'hit': 0.7757449032932566, 'stand': 0.6324019482184056}, 10: {'hit': 0.7402839810679288, 'stand': 0.5983357548540483}}, 12: {1: {'hit': 0.20679886685552407, 'stand': 0.11204717775905644}, 2: {'hit': 0.3564679048550016, 'stand': 0.3633692458374143}, 3: {'hit': 0.3746646795827124, 'stand': 0.3645621181262729}, 4: {'hit': 0.37700612780857895, 'stand': 0.4093567251461988}, 5: {'hit': 0.39258812895450435, 'stand': 0.43606364172068357}, 6: {'hit': 0.398822869955157, 'stand': 0.4161785216178522}, 7: {'hit': 0.3446376811594203, 'stand': 0.2716049382716049}, 8: {'hit': 0.29739776951672864, 'stand': 0.23681125439624853}, 9: {'hit': 0.28575694237085697, 'stand': 0.23868550014413376}, 10: {'hit': 0.27305922734243776, 'stand': 0.21759662888695147}}, 13: {1: {'hit': 0.19307359307359306, 'stand': 0.10401678657074341}, 2: {'hit': 0.33926553672316384, 'stand': 0.35352323838080957}, 3: {'hit': 0.3458750431480842, 'stand': 0.37177747625508817}, 4: {'hit': 0.35923527597903177, 'stand': 0.3984514592019059}, 5: {'hit': 0.3767123287671233, 'stand': 0.4211351520852932}, 6: {'hit': 0.35261367151252704, 'stand': 0.41321044546851}, 7: {'hit': 0.31750465549348234, 'stand': 0.26804123711340205}, 8: {'hit': 0.2940991839296924, 'stand': 0.2367524016114038}, 9: {'hit': 0.2804472650347537, 'stand': 0.22512285012285013}, 10: {'hit': 0.2528270171149144, 'stand': 0.21271694056212564}}, 14: {1: {'hit': 0.1819088792816761, 'stand': 0.1262642740619902}, 2: {'hit': 0.2884300229432973, 'stand': 0.3396351575456053}, 3: {'hit': 0.32163554410817774, 'stand': 0.3905852417302799}, 4: {'hit': 0.31384615384615383, 'stand': 0.40691280439905736}, 5: {'hit': 0.3237359550561798, 'stand': 0.4348422496570645}, 6: {'hit': 0.3336755646817248, 'stand': 0.44106720702465385}, 7: {'hit': 0.3062278154243304, 'stand': 0.2694509936005389}, 8: {'hit': 0.278855975485189, 'stand': 0.2307953772943576}, 9: {'hit': 0.2536617842876165, 'stand': 0.22818121252498336}, 10: {'hit': 0.23021889106549698, 'stand': 0.21407426203163327}}, 15: {1: {'hit': 0.18098159509202455, 'stand': 0.11283497884344147}, 2: {'hit': 0.27514490282986703, 'stand': 0.36274165202108966}, 3: {'hit': 0.2792184724689165, 'stand': 0.3649965205288796}, 4: {'hit': 0.2655426765015806, 'stand': 0.40928122819260293}, 5: {'hit': 0.29243353783231085, 'stand': 0.4440251572327044}, 6: {'hit': 0.29506398537477146, 'stand': 0.4218916046758767}, 7: {'hit': 0.2896678966789668, 'stand': 0.2513523260007212}, 8: {'hit': 0.2614453272796065, 'stand': 0.24120603015075376}, 9: {'hit': 0.2529585798816568, 'stand': 0.2318313953488372}, 10: {'hit': 0.2208167690639682, 'stand': 0.2182350787257415}}, 16: {1: {'hit': 0.1811263318112633, 'stand': 0.12223914699162224}, 2: {'hit': 0.25484120836560803, 'stand': 0.3546264034068912}, 3: {'hit': 0.2568285280728376, 'stand': 0.3773148148148148}, 4: {'hit': 0.26090404440919907, 'stand': 0.42408376963350786}, 5: {'hit': 0.2543757292882147, 'stand': 0.40484429065743943}, 6: {'hit': 0.293953488372093, 'stand': 0.39050751879699247}, 7: {'hit': 0.288406390823433, 'stand': 0.25848142164781907}, 8: {'hit': 0.2694610778443114, 'stand': 0.22381342062193127}, 9: {'hit': 0.23885848318999217, 'stand': 0.23229813664596274}, 10: {'hit': 0.20576844679983694, 'stand': 0.21257723739286427}}, 17: {1: {'hit': 0.16625207296849087, 'stand': 0.12122519413287317}, 2: {'hit': 0.22653061224489796, 'stand': 0.34017595307917886}, 3: {'hit': 0.22961104140526975, 'stand': 0.36503856041131105}, 4: {'hit': 0.20932134096484056, 'stand': 0.40974212034383956}, 5: {'hit': 0.25663716814159293, 'stand': 0.4200743494423792}, 6: {'hit': 0.2565234845443597, 'stand': 0.4075286415711948}, 7: {'hit': 0.25205338809034905, 'stand': 0.2619775739041794}, 8: {'hit': 0.24174882126018002, 'stand': 0.20813079982324348}, 9: {'hit': 0.21216216216216216, 'stand': 0.22142857142857142}, 10: {'hit': 0.1886569091691778, 'stand': 0.21952552749535367}}, 18: {1: {'hit': 0.144349477682811, 'stand': 0.2507095553453169}, 2: {'hit': 0.19303482587064677, 'stand': 0.4779933743492664}, 3: {'hit': 0.17660446062812926, 'stand': 0.5068744271310724}, 4: {'hit': 0.18147268408551068, 'stand': 0.5322195704057279}, 5: {'hit': 0.1931918656056587, 'stand': 0.5422018348623853}, 6: {'hit': 0.2052462034054303, 'stand': 0.5681818181818182}, 7: {'hit': 0.22018348623853212, 'stand': 0.6233766233766234}, 8: {'hit': 0.21921921921921922, 'stand': 0.38625}, 9: {'hit': 0.1865079365079365, 'stand': 0.3588120740019474}, 10: {'hit': 0.16539662710805747, 'stand': 0.3368898700024528}}, 19: {1: {'hit': 0.11203751954142782, 'stand': 0.3691311386940097}, 2: {'hit': 0.12687366167023553, 'stand': 0.6438152011922503}, 3: {'hit': 0.1405579399141631, 'stand': 0.6216494845360825}, 4: {'hit': 0.144116122343183, 'stand': 0.6353646353646354}, 5: {'hit': 0.1432942376338603, 'stand': 0.6747547754259163}, 6: {'hit': 0.14209115281501342, 'stand': 0.6666666666666666}, 7: {'hit': 0.15108958837772396, 'stand': 0.7607361963190185}, 8: {'hit': 0.14989939637826963, 'stand': 0.7277628032345014}, 9: {'hit': 0.1320754716981132, 'stand': 0.4610526315789474}, 10: {'hit': 0.12288597926895799, 'stand': 0.4546963618757781}}, 20: {1: {'hit': 0.06796382570567279, 'stand': 0.522354272778721}, 2: {'hit': 0.09221822209914152, 'stand': 0.7431295569265284}, 3: {'hit': 0.0778393351800554, 'stand': 0.7480272108843538}, 4: {'hit': 0.08911973756150902, 'stand': 0.7629153867634739}, 5: {'hit': 0.08181315644002211, 'stand': 0.7783918209450125}, 6: {'hit': 0.08198097369893677, 'stand': 0.7930939983557139}, 7: {'hit': 0.0766685052399338, 'stand': 0.8351020408163266}, 8: {'hit': 0.08668377530652979, 'stand': 0.8580381471389645}, 9: {'hit': 0.08425600864164191, 'stand': 0.8086057557977089}, 10: {'hit': 0.08335321721148493, 'stand': 0.5677124389090336}}, 21: {1: {'hit': 0, 'stand': 0}, 2: {'hit': 0, 'stand': 0}, 3: {'hit': 0, 'stand': 0}, 4: {'hit': 0, 'stand': 0}, 5: {'hit': 0, 'stand': 0}, 6: {'hit': 0, 'stand': 0}, 7: {'hit': 0, 'stand': 0}, 8: {'hit': 0, 'stand': 0}, 9: {'hit': 0, 'stand': 0}, 10: {'hit': 0, 'stand': 0}}}
+
+Player's Sum: 2
+  Dealer Upcard: 1 | Hit Probability: 0.1169 | Stand Probability: 0.1039
+  Dealer Upcard: 2 | Hit Probability: 0.4244 | Stand Probability: 0.3694
+  Dealer Upcard: 3 | Hit Probability: 0.4142 | Stand Probability: 0.4728
+  Dealer Upcard: 4 | Hit Probability: 0.4693 | Stand Probability: 0.3978
+  Dealer Upcard: 5 | Hit Probability: 0.4242 | Stand Probability: 0.4681
+  Dealer Upcard: 6 | Hit Probability: 0.4817 | Stand Probability: 0.4085
+  Dealer Upcard: 7 | Hit Probability: 0.2564 | Stand Probability: 0.2778
+  Dealer Upcard: 8 | Hit Probability: 0.2989 | Stand Probability: 0.2554
+  Dealer Upcard: 9 | Hit Probability: 0.3010 | Stand Probability: 0.2736
+  Dealer Upcard: 10 | Hit Probability: 0.3073 | Stand Probability: 0.2380
+
+
+Player's Sum: 3
+  Dealer Upcard: 1 | Hit Probability: 0.1821 | Stand Probability: 0.1250
+  Dealer Upcard: 2 | Hit Probability: 0.3631 | Stand Probability: 0.3624
+  Dealer Upcard: 3 | Hit Probability: 0.4099 | Stand Probability: 0.4066
+  Dealer Upcard: 4 | Hit Probability: 0.4163 | Stand Probability: 0.4008
+  Dealer Upcard: 5 | Hit Probability: 0.4760 | Stand Probability: 0.4479
+  Dealer Upcard: 6 | Hit Probability: 0.4732 | Stand Probability: 0.4318
+  Dealer Upcard: 7 | Hit Probability: 0.3555 | Stand Probability: 0.2683
+  Dealer Upcard: 8 | Hit Probability: 0.2915 | Stand Probability: 0.2464
+  Dealer Upcard: 9 | Hit Probability: 0.2981 | Stand Probability: 0.2192
+  Dealer Upcard: 10 | Hit Probability: 0.2624 | Stand Probability: 0.2196
+
+
+Player's Sum: 4
+  Dealer Upcard: 1 | Hit Probability: 0.1710 | Stand Probability: 0.1239
+  Dealer Upcard: 2 | Hit Probability: 0.3846 | Stand Probability: 0.3663
+  Dealer Upcard: 3 | Hit Probability: 0.4012 | Stand Probability: 0.4242
+  Dealer Upcard: 4 | Hit Probability: 0.4914 | Stand Probability: 0.4119
+  Dealer Upcard: 5 | Hit Probability: 0.4724 | Stand Probability: 0.4470
+  Dealer Upcard: 6 | Hit Probability: 0.4373 | Stand Probability: 0.4268
+  Dealer Upcard: 7 | Hit Probability: 0.3065 | Stand Probability: 0.2733
+  Dealer Upcard: 8 | Hit Probability: 0.2714 | Stand Probability: 0.2271
+  Dealer Upcard: 9 | Hit Probability: 0.2723 | Stand Probability: 0.2446
+  Dealer Upcard: 10 | Hit Probability: 0.2631 | Stand Probability: 0.2070
+
+
+Player's Sum: 5
+  Dealer Upcard: 1 | Hit Probability: 0.1516 | Stand Probability: 0.1149
+  Dealer Upcard: 2 | Hit Probability: 0.3955 | Stand Probability: 0.3657
+  Dealer Upcard: 3 | Hit Probability: 0.4188 | Stand Probability: 0.3973
+  Dealer Upcard: 4 | Hit Probability: 0.4345 | Stand Probability: 0.4147
+  Dealer Upcard: 5 | Hit Probability: 0.4633 | Stand Probability: 0.4355
+  Dealer Upcard: 6 | Hit Probability: 0.4648 | Stand Probability: 0.4553
+  Dealer Upcard: 7 | Hit Probability: 0.2768 | Stand Probability: 0.2681
+  Dealer Upcard: 8 | Hit Probability: 0.2939 | Stand Probability: 0.2646
+  Dealer Upcard: 9 | Hit Probability: 0.2601 | Stand Probability: 0.2294
+  Dealer Upcard: 10 | Hit Probability: 0.2384 | Stand Probability: 0.2155
+
+
+Player's Sum: 6
+  Dealer Upcard: 1 | Hit Probability: 0.1271 | Stand Probability: 0.0948
+  Dealer Upcard: 2 | Hit Probability: 0.3788 | Stand Probability: 0.3634
+  Dealer Upcard: 3 | Hit Probability: 0.3762 | Stand Probability: 0.3506
+  Dealer Upcard: 4 | Hit Probability: 0.4527 | Stand Probability: 0.4264
+  Dealer Upcard: 5 | Hit Probability: 0.4258 | Stand Probability: 0.4452
+  Dealer Upcard: 6 | Hit Probability: 0.4702 | Stand Probability: 0.4410
+  Dealer Upcard: 7 | Hit Probability: 0.2961 | Stand Probability: 0.2577
+  Dealer Upcard: 8 | Hit Probability: 0.2525 | Stand Probability: 0.2438
+  Dealer Upcard: 9 | Hit Probability: 0.2365 | Stand Probability: 0.2178
+  Dealer Upcard: 10 | Hit Probability: 0.2262 | Stand Probability: 0.2196
+
+
+Player's Sum: 7
+  Dealer Upcard: 1 | Hit Probability: 0.1288 | Stand Probability: 0.1096
+  Dealer Upcard: 2 | Hit Probability: 0.3794 | Stand Probability: 0.3580
+  Dealer Upcard: 3 | Hit Probability: 0.3854 | Stand Probability: 0.3889
+  Dealer Upcard: 4 | Hit Probability: 0.4381 | Stand Probability: 0.4294
+  Dealer Upcard: 5 | Hit Probability: 0.4603 | Stand Probability: 0.4600
+  Dealer Upcard: 6 | Hit Probability: 0.4315 | Stand Probability: 0.4458
+  Dealer Upcard: 7 | Hit Probability: 0.2881 | Stand Probability: 0.2678
+  Dealer Upcard: 8 | Hit Probability: 0.2725 | Stand Probability: 0.2272
+  Dealer Upcard: 9 | Hit Probability: 0.2639 | Stand Probability: 0.2362
+  Dealer Upcard: 10 | Hit Probability: 0.2331 | Stand Probability: 0.2025
+
+
+Player's Sum: 8
+  Dealer Upcard: 1 | Hit Probability: 0.1783 | Stand Probability: 0.1143
+  Dealer Upcard: 2 | Hit Probability: 0.4105 | Stand Probability: 0.3621
+  Dealer Upcard: 3 | Hit Probability: 0.4509 | Stand Probability: 0.3784
+  Dealer Upcard: 4 | Hit Probability: 0.4751 | Stand Probability: 0.4051
+  Dealer Upcard: 5 | Hit Probability: 0.5042 | Stand Probability: 0.4643
+  Dealer Upcard: 6 | Hit Probability: 0.5072 | Stand Probability: 0.4177
+  Dealer Upcard: 7 | Hit Probability: 0.3996 | Stand Probability: 0.2583
+  Dealer Upcard: 8 | Hit Probability: 0.3014 | Stand Probability: 0.2522
+  Dealer Upcard: 9 | Hit Probability: 0.2822 | Stand Probability: 0.2318
+  Dealer Upcard: 10 | Hit Probability: 0.2552 | Stand Probability: 0.2108
+
+
+Player's Sum: 9
+  Dealer Upcard: 1 | Hit Probability: 0.2311 | Stand Probability: 0.1198
+  Dealer Upcard: 2 | Hit Probability: 0.4743 | Stand Probability: 0.3865
+  Dealer Upcard: 3 | Hit Probability: 0.4979 | Stand Probability: 0.3770
+  Dealer Upcard: 4 | Hit Probability: 0.5297 | Stand Probability: 0.4129
+  Dealer Upcard: 5 | Hit Probability: 0.5336 | Stand Probability: 0.4520
+  Dealer Upcard: 6 | Hit Probability: 0.5561 | Stand Probability: 0.4422
+  Dealer Upcard: 7 | Hit Probability: 0.4745 | Stand Probability: 0.2433
+  Dealer Upcard: 8 | Hit Probability: 0.4231 | Stand Probability: 0.2345
+  Dealer Upcard: 9 | Hit Probability: 0.3267 | Stand Probability: 0.2352
+  Dealer Upcard: 10 | Hit Probability: 0.3081 | Stand Probability: 0.2160
+
+
+Player's Sum: 10
+  Dealer Upcard: 1 | Hit Probability: 0.3335 | Stand Probability: 0.1168
+  Dealer Upcard: 2 | Hit Probability: 0.5781 | Stand Probability: 0.3426
+  Dealer Upcard: 3 | Hit Probability: 0.5834 | Stand Probability: 0.3836
+  Dealer Upcard: 4 | Hit Probability: 0.6142 | Stand Probability: 0.4179
+  Dealer Upcard: 5 | Hit Probability: 0.5976 | Stand Probability: 0.4141
+  Dealer Upcard: 6 | Hit Probability: 0.6366 | Stand Probability: 0.4307
+  Dealer Upcard: 7 | Hit Probability: 0.5864 | Stand Probability: 0.2573
+  Dealer Upcard: 8 | Hit Probability: 0.5388 | Stand Probability: 0.2217
+  Dealer Upcard: 9 | Hit Probability: 0.4853 | Stand Probability: 0.2276
+  Dealer Upcard: 10 | Hit Probability: 0.3999 | Stand Probability: 0.2161
+
+
+Player's Sum: 11
+  Dealer Upcard: 1 | Hit Probability: 0.6962 | Stand Probability: 0.4941
+  Dealer Upcard: 2 | Hit Probability: 0.8223 | Stand Probability: 0.7000
+  Dealer Upcard: 3 | Hit Probability: 0.8241 | Stand Probability: 0.7093
+  Dealer Upcard: 4 | Hit Probability: 0.8401 | Stand Probability: 0.7209
+  Dealer Upcard: 5 | Hit Probability: 0.8530 | Stand Probability: 0.7376
+  Dealer Upcard: 6 | Hit Probability: 0.8453 | Stand Probability: 0.7089
+  Dealer Upcard: 7 | Hit Probability: 0.8085 | Stand Probability: 0.6300
+  Dealer Upcard: 8 | Hit Probability: 0.7849 | Stand Probability: 0.6399
+  Dealer Upcard: 9 | Hit Probability: 0.7764 | Stand Probability: 0.6245
+  Dealer Upcard: 10 | Hit Probability: 0.7489 | Stand Probability: 0.5938
+
+
+Player's Sum: 12
+  Dealer Upcard: 1 | Hit Probability: 0.2023 | Stand Probability: 0.1119
+  Dealer Upcard: 2 | Hit Probability: 0.3724 | Stand Probability: 0.3553
+  Dealer Upcard: 3 | Hit Probability: 0.3708 | Stand Probability: 0.3752
+  Dealer Upcard: 4 | Hit Probability: 0.3739 | Stand Probability: 0.3986
+  Dealer Upcard: 5 | Hit Probability: 0.3909 | Stand Probability: 0.4361
+  Dealer Upcard: 6 | Hit Probability: 0.4083 | Stand Probability: 0.4147
+  Dealer Upcard: 7 | Hit Probability: 0.3388 | Stand Probability: 0.2594
+  Dealer Upcard: 8 | Hit Probability: 0.3249 | Stand Probability: 0.2371
+  Dealer Upcard: 9 | Hit Probability: 0.2803 | Stand Probability: 0.2217
+  Dealer Upcard: 10 | Hit Probability: 0.2665 | Stand Probability: 0.2087
+
+
+Player's Sum: 13
+  Dealer Upcard: 1 | Hit Probability: 0.1949 | Stand Probability: 0.1205
+  Dealer Upcard: 2 | Hit Probability: 0.3262 | Stand Probability: 0.3430
+  Dealer Upcard: 3 | Hit Probability: 0.3419 | Stand Probability: 0.3849
+  Dealer Upcard: 4 | Hit Probability: 0.3376 | Stand Probability: 0.4122
+  Dealer Upcard: 5 | Hit Probability: 0.3759 | Stand Probability: 0.4367
+  Dealer Upcard: 6 | Hit Probability: 0.3615 | Stand Probability: 0.4143
+  Dealer Upcard: 7 | Hit Probability: 0.3183 | Stand Probability: 0.2481
+  Dealer Upcard: 8 | Hit Probability: 0.3003 | Stand Probability: 0.2348
+  Dealer Upcard: 9 | Hit Probability: 0.2781 | Stand Probability: 0.2315
+  Dealer Upcard: 10 | Hit Probability: 0.2462 | Stand Probability: 0.2108
+
+
+Player's Sum: 14
+  Dealer Upcard: 1 | Hit Probability: 0.1854 | Stand Probability: 0.1161
+  Dealer Upcard: 2 | Hit Probability: 0.3003 | Stand Probability: 0.3327
+  Dealer Upcard: 3 | Hit Probability: 0.3047 | Stand Probability: 0.3770
+  Dealer Upcard: 4 | Hit Probability: 0.3156 | Stand Probability: 0.4045
+  Dealer Upcard: 5 | Hit Probability: 0.3192 | Stand Probability: 0.4289
+  Dealer Upcard: 6 | Hit Probability: 0.3260 | Stand Probability: 0.4199
+  Dealer Upcard: 7 | Hit Probability: 0.3073 | Stand Probability: 0.2606
+  Dealer Upcard: 8 | Hit Probability: 0.2700 | Stand Probability: 0.2552
+  Dealer Upcard: 9 | Hit Probability: 0.2704 | Stand Probability: 0.2236
+  Dealer Upcard: 10 | Hit Probability: 0.2311 | Stand Probability: 0.2134
+
+
+Player's Sum: 15
+  Dealer Upcard: 1 | Hit Probability: 0.1866 | Stand Probability: 0.1106
+  Dealer Upcard: 2 | Hit Probability: 0.2720 | Stand Probability: 0.3416
+  Dealer Upcard: 3 | Hit Probability: 0.2656 | Stand Probability: 0.3724
+  Dealer Upcard: 4 | Hit Probability: 0.2727 | Stand Probability: 0.3957
+  Dealer Upcard: 5 | Hit Probability: 0.2890 | Stand Probability: 0.4399
+  Dealer Upcard: 6 | Hit Probability: 0.2922 | Stand Probability: 0.4107
+  Dealer Upcard: 7 | Hit Probability: 0.2984 | Stand Probability: 0.2648
+  Dealer Upcard: 8 | Hit Probability: 0.2598 | Stand Probability: 0.2325
+  Dealer Upcard: 9 | Hit Probability: 0.2619 | Stand Probability: 0.2260
+  Dealer Upcard: 10 | Hit Probability: 0.2078 | Stand Probability: 0.2112
+
+
+Player's Sum: 16
+  Dealer Upcard: 1 | Hit Probability: 0.1852 | Stand Probability: 0.1203
+  Dealer Upcard: 2 | Hit Probability: 0.2535 | Stand Probability: 0.3550
+  Dealer Upcard: 3 | Hit Probability: 0.2693 | Stand Probability: 0.3742
+  Dealer Upcard: 4 | Hit Probability: 0.2682 | Stand Probability: 0.4009
+  Dealer Upcard: 5 | Hit Probability: 0.2597 | Stand Probability: 0.4210
+  Dealer Upcard: 6 | Hit Probability: 0.2977 | Stand Probability: 0.4029
+  Dealer Upcard: 7 | Hit Probability: 0.2896 | Stand Probability: 0.2626
+  Dealer Upcard: 8 | Hit Probability: 0.2623 | Stand Probability: 0.2487
+  Dealer Upcard: 9 | Hit Probability: 0.2382 | Stand Probability: 0.2228
+  Dealer Upcard: 10 | Hit Probability: 0.2046 | Stand Probability: 0.2175
+
+
+Player's Sum: 17
+  Dealer Upcard: 1 | Hit Probability: 0.1646 | Stand Probability: 0.1082
+  Dealer Upcard: 2 | Hit Probability: 0.2136 | Stand Probability: 0.3598
+  Dealer Upcard: 3 | Hit Probability: 0.2185 | Stand Probability: 0.3608
+  Dealer Upcard: 4 | Hit Probability: 0.2270 | Stand Probability: 0.3984
+  Dealer Upcard: 5 | Hit Probability: 0.2296 | Stand Probability: 0.4335
+  Dealer Upcard: 6 | Hit Probability: 0.2539 | Stand Probability: 0.4056
+  Dealer Upcard: 7 | Hit Probability: 0.2469 | Stand Probability: 0.2683
+  Dealer Upcard: 8 | Hit Probability: 0.2563 | Stand Probability: 0.2423
+  Dealer Upcard: 9 | Hit Probability: 0.2168 | Stand Probability: 0.2221
+  Dealer Upcard: 10 | Hit Probability: 0.1867 | Stand Probability: 0.2235
+
+
+Player's Sum: 18
+  Dealer Upcard: 1 | Hit Probability: 0.1458 | Stand Probability: 0.2462
+  Dealer Upcard: 2 | Hit Probability: 0.1763 | Stand Probability: 0.4948
+  Dealer Upcard: 3 | Hit Probability: 0.1715 | Stand Probability: 0.4974
+  Dealer Upcard: 4 | Hit Probability: 0.1931 | Stand Probability: 0.5192
+  Dealer Upcard: 5 | Hit Probability: 0.2199 | Stand Probability: 0.5266
+  Dealer Upcard: 6 | Hit Probability: 0.1974 | Stand Probability: 0.5785
+  Dealer Upcard: 7 | Hit Probability: 0.2166 | Stand Probability: 0.6134
+  Dealer Upcard: 8 | Hit Probability: 0.2182 | Stand Probability: 0.3656
+  Dealer Upcard: 9 | Hit Probability: 0.1787 | Stand Probability: 0.3435
+  Dealer Upcard: 10 | Hit Probability: 0.1620 | Stand Probability: 0.3305
+
+
+Player's Sum: 19
+  Dealer Upcard: 1 | Hit Probability: 0.1187 | Stand Probability: 0.3927
+  Dealer Upcard: 2 | Hit Probability: 0.1289 | Stand Probability: 0.6211
+  Dealer Upcard: 3 | Hit Probability: 0.1430 | Stand Probability: 0.6432
+  Dealer Upcard: 4 | Hit Probability: 0.1427 | Stand Probability: 0.6387
+  Dealer Upcard: 5 | Hit Probability: 0.1608 | Stand Probability: 0.6559
+  Dealer Upcard: 6 | Hit Probability: 0.1350 | Stand Probability: 0.6910
+  Dealer Upcard: 7 | Hit Probability: 0.1533 | Stand Probability: 0.7632
+  Dealer Upcard: 8 | Hit Probability: 0.1602 | Stand Probability: 0.7102
+  Dealer Upcard: 9 | Hit Probability: 0.1396 | Stand Probability: 0.4539
+  Dealer Upcard: 10 | Hit Probability: 0.1266 | Stand Probability: 0.4531
+
+
+Player's Sum: 20
+  Dealer Upcard: 1 | Hit Probability: 0.0595 | Stand Probability: 0.5238
+  Dealer Upcard: 2 | Hit Probability: 0.0797 | Stand Probability: 0.7377
+  Dealer Upcard: 3 | Hit Probability: 0.0903 | Stand Probability: 0.7571
+  Dealer Upcard: 4 | Hit Probability: 0.0873 | Stand Probability: 0.7669
+  Dealer Upcard: 5 | Hit Probability: 0.0909 | Stand Probability: 0.7793
+  Dealer Upcard: 6 | Hit Probability: 0.0732 | Stand Probability: 0.8005
+  Dealer Upcard: 7 | Hit Probability: 0.0840 | Stand Probability: 0.8439
+  Dealer Upcard: 8 | Hit Probability: 0.0813 | Stand Probability: 0.8465
+  Dealer Upcard: 9 | Hit Probability: 0.0784 | Stand Probability: 0.8094
+  Dealer Upcard: 10 | Hit Probability: 0.0847 | Stand Probability: 0.5805
+
+
+Player's Sum: 21
+  Dealer Upcard: 1 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 2 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 3 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 4 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 5 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 6 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 7 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 8 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 9 | Hit Probability: 0.0000 | Stand Probability: 0.0000
+  Dealer Upcard: 10 | Hit Probability: 0.0000 | Stand Probability: 0.0000
