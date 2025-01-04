@@ -246,15 +246,3 @@ Player's Sum: 20
   Dealer Upcard: 9 | Hit Probability: 0.0784 | Stand Probability: 0.8094
   Dealer Upcard: 10 | Hit Probability: 0.0847 | Stand Probability: 0.5805
 
-
-Player's Sum: 21
-  Dealer Upcard: 1 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 2 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 3 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 4 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 5 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 6 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 7 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 8 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 9 | Hit Probability: 0.0000 | Stand Probability: 0.0000
-  Dealer Upcard: 10 | Hit Probability: 0.0000 | Stand Probability: 0.0000
