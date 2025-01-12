@@ -24,12 +24,6 @@ Possible outcomes for the player are Win (+1), Lose (-1), or Draw (0).
 
 # Monte Carlo Blackjack Simulation
 
-This project uses a **Monte Carlo simulation** to approximate the probabilities of winning a game of Blackjack. The simulation considers only two possible player actions: `hit` (draw a new card) and `stand` (do not draw a new card). By running a large number of simulated games (`N_SIMULATIONS`), the algorithm estimates the probability of winning for each initial game state (player's sum and dealer's upcard) and each possible action.
-
----
-
-## Monte Carlo Simulation Overview
-
 ### What is Monte Carlo Simulation?
 
 Monte Carlo simulation is a computational algorithm that relies on repeated random sampling to approximate solutions to problems that are difficult to solve analytically. In this project, it is used to estimate the probability of winning in Blackjack by simulating thousands of games and analyzing the outcomes.
