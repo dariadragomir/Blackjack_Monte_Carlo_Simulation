@@ -67,9 +67,10 @@ def monte_carlo_blackjack(n_simulations):
                         convergence_data[sum][upcard][act].append(prob)
 
     return probabilites
-
-probabilities = monte_carlo_blackjack(N_SIMULATIONS)
-print(probabilites)
+    
+if __name__ == "__main__":
+    probabilities = monte_carlo_blackjack(N_SIMULATIONS)
+    print(probabilites)
 
 
 for sum in range(2, 21):
