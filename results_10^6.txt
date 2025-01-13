@@ -1,0 +1,260 @@
+Player's Score: 2
+  Dealer Upcard: 1 | Hit Win: 34.9% | Stand Win: 17.7%
+  Dealer Upcard: 2 | Hit Win: 39.2% | Stand Win: 38.9%
+  Dealer Upcard: 3 | Hit Win: 38.3% | Stand Win: 39.7%
+  Dealer Upcard: 4 | Hit Win: 34.9% | Stand Win: 33.5%
+  Dealer Upcard: 5 | Hit Win: 38.7% | Stand Win: 36.9%
+  Dealer Upcard: 6 | Hit Win: 47.2% | Stand Win: 48.2%
+  Dealer Upcard: 7 | Hit Win: 39.2% | Stand Win: 26.1%
+  Dealer Upcard: 8 | Hit Win: 38.3% | Stand Win: 24.9%
+  Dealer Upcard: 9 | Hit Win: 30.1% | Stand Win: 25.0%
+  Dealer Upcard: 10 | Hit Win: 28.3% | Stand Win: 20.8%
+
+
+Player's Score: 3
+  Dealer Upcard: 1 | Hit Win: 32.3% | Stand Win: 15.7%
+  Dealer Upcard: 2 | Hit Win: 33.1% | Stand Win: 37.7%
+  Dealer Upcard: 3 | Hit Win: 37.9% | Stand Win: 35.7%
+  Dealer Upcard: 4 | Hit Win: 41.2% | Stand Win: 39.3%
+  Dealer Upcard: 5 | Hit Win: 43.9% | Stand Win: 44.6%
+  Dealer Upcard: 6 | Hit Win: 38.1% | Stand Win: 44.8%
+  Dealer Upcard: 7 | Hit Win: 33.7% | Stand Win: 29.3%
+  Dealer Upcard: 8 | Hit Win: 31.1% | Stand Win: 25.6%
+  Dealer Upcard: 9 | Hit Win: 31.2% | Stand Win: 26.7%
+  Dealer Upcard: 10 | Hit Win: 28.7% | Stand Win: 21.5%
+
+
+Player's Score: 4
+  Dealer Upcard: 1 | Hit Win: 32.0% | Stand Win: 16.0%
+  Dealer Upcard: 2 | Hit Win: 33.5% | Stand Win: 36.3%
+  Dealer Upcard: 3 | Hit Win: 36.4% | Stand Win: 39.4%
+  Dealer Upcard: 4 | Hit Win: 40.1% | Stand Win: 40.5%
+  Dealer Upcard: 5 | Hit Win: 37.7% | Stand Win: 42.2%
+  Dealer Upcard: 6 | Hit Win: 42.3% | Stand Win: 45.7%
+  Dealer Upcard: 7 | Hit Win: 32.1% | Stand Win: 29.6%
+  Dealer Upcard: 8 | Hit Win: 33.5% | Stand Win: 25.1%
+  Dealer Upcard: 9 | Hit Win: 30.0% | Stand Win: 25.9%
+  Dealer Upcard: 10 | Hit Win: 27.6% | Stand Win: 21.5%
+
+
+Player's Score: 5
+  Dealer Upcard: 1 | Hit Win: 30.5% | Stand Win: 15.5%
+  Dealer Upcard: 2 | Hit Win: 32.7% | Stand Win: 37.4%
+  Dealer Upcard: 3 | Hit Win: 32.7% | Stand Win: 41.1%
+  Dealer Upcard: 4 | Hit Win: 34.8% | Stand Win: 43.4%
+  Dealer Upcard: 5 | Hit Win: 42.7% | Stand Win: 46.5%
+  Dealer Upcard: 6 | Hit Win: 36.6% | Stand Win: 43.3%
+  Dealer Upcard: 7 | Hit Win: 32.9% | Stand Win: 27.6%
+  Dealer Upcard: 8 | Hit Win: 31.6% | Stand Win: 27.7%
+  Dealer Upcard: 9 | Hit Win: 29.4% | Stand Win: 22.0%
+  Dealer Upcard: 10 | Hit Win: 26.7% | Stand Win: 20.0%
+
+
+Player's Score: 6
+  Dealer Upcard: 1 | Hit Win: 29.5% | Stand Win: 16.2%
+  Dealer Upcard: 2 | Hit Win: 28.1% | Stand Win: 37.1%
+  Dealer Upcard: 3 | Hit Win: 33.5% | Stand Win: 38.5%
+  Dealer Upcard: 4 | Hit Win: 34.6% | Stand Win: 40.6%
+  Dealer Upcard: 5 | Hit Win: 32.4% | Stand Win: 44.7%
+  Dealer Upcard: 6 | Hit Win: 38.7% | Stand Win: 44.7%
+  Dealer Upcard: 7 | Hit Win: 29.3% | Stand Win: 27.7%
+  Dealer Upcard: 8 | Hit Win: 29.2% | Stand Win: 25.1%
+  Dealer Upcard: 9 | Hit Win: 26.2% | Stand Win: 23.1%
+  Dealer Upcard: 10 | Hit Win: 23.9% | Stand Win: 19.8%
+
+
+Player's Score: 7
+  Dealer Upcard: 1 | Hit Win: 28.5% | Stand Win: 15.1%
+  Dealer Upcard: 2 | Hit Win: 30.9% | Stand Win: 36.4%
+  Dealer Upcard: 3 | Hit Win: 33.0% | Stand Win: 38.9%
+  Dealer Upcard: 4 | Hit Win: 33.1% | Stand Win: 42.1%
+  Dealer Upcard: 5 | Hit Win: 36.7% | Stand Win: 44.8%
+  Dealer Upcard: 6 | Hit Win: 33.9% | Stand Win: 44.6%
+  Dealer Upcard: 7 | Hit Win: 30.5% | Stand Win: 27.4%
+  Dealer Upcard: 8 | Hit Win: 27.8% | Stand Win: 25.7%
+  Dealer Upcard: 9 | Hit Win: 24.1% | Stand Win: 26.8%
+  Dealer Upcard: 10 | Hit Win: 24.1% | Stand Win: 20.4%
+
+
+Player's Score: 8
+  Dealer Upcard: 1 | Hit Win: 28.5% | Stand Win: 15.3%
+  Dealer Upcard: 2 | Hit Win: 32.8% | Stand Win: 35.4%
+  Dealer Upcard: 3 | Hit Win: 35.2% | Stand Win: 38.3%
+  Dealer Upcard: 4 | Hit Win: 37.4% | Stand Win: 43.0%
+  Dealer Upcard: 5 | Hit Win: 37.0% | Stand Win: 41.3%
+  Dealer Upcard: 6 | Hit Win: 36.0% | Stand Win: 46.9%
+  Dealer Upcard: 7 | Hit Win: 36.5% | Stand Win: 29.2%
+  Dealer Upcard: 8 | Hit Win: 28.8% | Stand Win: 24.1%
+  Dealer Upcard: 9 | Hit Win: 29.1% | Stand Win: 24.7%
+  Dealer Upcard: 10 | Hit Win: 26.0% | Stand Win: 20.0%
+
+
+Player's Score: 9
+  Dealer Upcard: 1 | Hit Win: 30.4% | Stand Win: 15.0%
+  Dealer Upcard: 2 | Hit Win: 34.1% | Stand Win: 35.9%
+  Dealer Upcard: 3 | Hit Win: 37.6% | Stand Win: 39.3%
+  Dealer Upcard: 4 | Hit Win: 36.6% | Stand Win: 42.3%
+  Dealer Upcard: 5 | Hit Win: 37.0% | Stand Win: 43.0%
+  Dealer Upcard: 6 | Hit Win: 40.6% | Stand Win: 44.2%
+  Dealer Upcard: 7 | Hit Win: 34.9% | Stand Win: 28.7%
+  Dealer Upcard: 8 | Hit Win: 35.4% | Stand Win: 25.6%
+  Dealer Upcard: 9 | Hit Win: 30.4% | Stand Win: 23.7%
+  Dealer Upcard: 10 | Hit Win: 25.5% | Stand Win: 19.9%
+
+
+Player's Score: 10
+  Dealer Upcard: 1 | Hit Win: 34.6% | Stand Win: 15.6%
+  Dealer Upcard: 2 | Hit Win: 39.2% | Stand Win: 37.6%
+  Dealer Upcard: 3 | Hit Win: 39.9% | Stand Win: 37.8%
+  Dealer Upcard: 4 | Hit Win: 40.9% | Stand Win: 41.1%
+  Dealer Upcard: 5 | Hit Win: 41.9% | Stand Win: 42.3%
+  Dealer Upcard: 6 | Hit Win: 42.9% | Stand Win: 44.8%
+  Dealer Upcard: 7 | Hit Win: 37.6% | Stand Win: 28.3%
+  Dealer Upcard: 8 | Hit Win: 37.5% | Stand Win: 24.6%
+  Dealer Upcard: 9 | Hit Win: 36.9% | Stand Win: 26.3%
+  Dealer Upcard: 10 | Hit Win: 31.6% | Stand Win: 19.2%
+
+
+Player's Score: 11
+  Dealer Upcard: 1 | Hit Win: 51.6% | Stand Win: 44.6%
+  Dealer Upcard: 2 | Hit Win: 56.4% | Stand Win: 79.1%
+  Dealer Upcard: 3 | Hit Win: 53.9% | Stand Win: 80.4%
+  Dealer Upcard: 4 | Hit Win: 55.3% | Stand Win: 82.2%
+  Dealer Upcard: 5 | Hit Win: 56.5% | Stand Win: 82.4%
+  Dealer Upcard: 6 | Hit Win: 55.7% | Stand Win: 82.5%
+  Dealer Upcard: 7 | Hit Win: 52.3% | Stand Win: 77.8%
+  Dealer Upcard: 8 | Hit Win: 51.3% | Stand Win: 76.3%
+  Dealer Upcard: 9 | Hit Win: 48.5% | Stand Win: 76.5%
+  Dealer Upcard: 10 | Hit Win: 46.0% | Stand Win: 67.1%
+
+
+Player's Score: 12
+  Dealer Upcard: 1 | Hit Win: 24.5% | Stand Win: 14.8%
+  Dealer Upcard: 2 | Hit Win: 26.2% | Stand Win: 36.5%
+  Dealer Upcard: 3 | Hit Win: 28.0% | Stand Win: 37.5%
+  Dealer Upcard: 4 | Hit Win: 27.8% | Stand Win: 40.4%
+  Dealer Upcard: 5 | Hit Win: 29.3% | Stand Win: 43.5%
+  Dealer Upcard: 6 | Hit Win: 29.5% | Stand Win: 43.3%
+  Dealer Upcard: 7 | Hit Win: 27.3% | Stand Win: 28.0%
+  Dealer Upcard: 8 | Hit Win: 24.7% | Stand Win: 26.2%
+  Dealer Upcard: 9 | Hit Win: 22.4% | Stand Win: 24.9%
+  Dealer Upcard: 10 | Hit Win: 21.9% | Stand Win: 19.5%
+
+
+Player's Score: 13
+  Dealer Upcard: 1 | Hit Win: 21.8% | Stand Win: 15.2%
+  Dealer Upcard: 2 | Hit Win: 24.3% | Stand Win: 36.8%
+  Dealer Upcard: 3 | Hit Win: 24.7% | Stand Win: 38.6%
+  Dealer Upcard: 4 | Hit Win: 24.4% | Stand Win: 40.4%
+  Dealer Upcard: 5 | Hit Win: 25.9% | Stand Win: 42.2%
+  Dealer Upcard: 6 | Hit Win: 25.8% | Stand Win: 43.2%
+  Dealer Upcard: 7 | Hit Win: 24.8% | Stand Win: 28.3%
+  Dealer Upcard: 8 | Hit Win: 21.8% | Stand Win: 26.0%
+  Dealer Upcard: 9 | Hit Win: 24.8% | Stand Win: 25.0%
+  Dealer Upcard: 10 | Hit Win: 20.6% | Stand Win: 20.1%
+
+
+Player's Score: 14
+  Dealer Upcard: 1 | Hit Win: 21.6% | Stand Win: 15.7%
+  Dealer Upcard: 2 | Hit Win: 22.2% | Stand Win: 36.0%
+  Dealer Upcard: 3 | Hit Win: 23.1% | Stand Win: 37.8%
+  Dealer Upcard: 4 | Hit Win: 24.2% | Stand Win: 41.0%
+  Dealer Upcard: 5 | Hit Win: 23.6% | Stand Win: 42.4%
+  Dealer Upcard: 6 | Hit Win: 23.7% | Stand Win: 43.1%
+  Dealer Upcard: 7 | Hit Win: 21.9% | Stand Win: 28.1%
+  Dealer Upcard: 8 | Hit Win: 22.4% | Stand Win: 25.6%
+  Dealer Upcard: 9 | Hit Win: 22.2% | Stand Win: 25.7%
+  Dealer Upcard: 10 | Hit Win: 19.1% | Stand Win: 20.1%
+
+
+Player's Score: 15
+  Dealer Upcard: 1 | Hit Win: 18.7% | Stand Win: 14.8%
+  Dealer Upcard: 2 | Hit Win: 19.7% | Stand Win: 35.9%
+  Dealer Upcard: 3 | Hit Win: 19.0% | Stand Win: 39.5%
+  Dealer Upcard: 4 | Hit Win: 20.9% | Stand Win: 40.5%
+  Dealer Upcard: 5 | Hit Win: 20.5% | Stand Win: 43.4%
+  Dealer Upcard: 6 | Hit Win: 21.4% | Stand Win: 43.3%
+  Dealer Upcard: 7 | Hit Win: 20.7% | Stand Win: 27.0%
+  Dealer Upcard: 8 | Hit Win: 20.2% | Stand Win: 24.0%
+  Dealer Upcard: 9 | Hit Win: 19.7% | Stand Win: 24.6%
+  Dealer Upcard: 10 | Hit Win: 18.1% | Stand Win: 19.5%
+
+
+Player's Score: 16
+  Dealer Upcard: 1 | Hit Win: 17.5% | Stand Win: 15.9%
+  Dealer Upcard: 2 | Hit Win: 18.5% | Stand Win: 36.7%
+  Dealer Upcard: 3 | Hit Win: 18.6% | Stand Win: 38.2%
+  Dealer Upcard: 4 | Hit Win: 18.2% | Stand Win: 39.2%
+  Dealer Upcard: 5 | Hit Win: 17.8% | Stand Win: 42.6%
+  Dealer Upcard: 6 | Hit Win: 20.6% | Stand Win: 43.0%
+  Dealer Upcard: 7 | Hit Win: 21.0% | Stand Win: 27.3%
+  Dealer Upcard: 8 | Hit Win: 19.6% | Stand Win: 25.0%
+  Dealer Upcard: 9 | Hit Win: 18.7% | Stand Win: 23.9%
+  Dealer Upcard: 10 | Hit Win: 17.3% | Stand Win: 19.6%
+
+
+Player's Score: 17
+  Dealer Upcard: 1 | Hit Win: 16.2% | Stand Win: 15.1%
+  Dealer Upcard: 2 | Hit Win: 16.6% | Stand Win: 37.3%
+  Dealer Upcard: 3 | Hit Win: 16.2% | Stand Win: 38.3%
+  Dealer Upcard: 4 | Hit Win: 15.3% | Stand Win: 39.2%
+  Dealer Upcard: 5 | Hit Win: 18.9% | Stand Win: 40.9%
+  Dealer Upcard: 6 | Hit Win: 17.7% | Stand Win: 43.3%
+  Dealer Upcard: 7 | Hit Win: 18.1% | Stand Win: 28.6%
+  Dealer Upcard: 8 | Hit Win: 16.9% | Stand Win: 25.4%
+  Dealer Upcard: 9 | Hit Win: 15.9% | Stand Win: 25.2%
+  Dealer Upcard: 10 | Hit Win: 15.0% | Stand Win: 19.8%
+
+
+Player's Score: 18
+  Dealer Upcard: 1 | Hit Win: 12.6% | Stand Win: 22.0%
+  Dealer Upcard: 2 | Hit Win: 14.8% | Stand Win: 50.6%
+  Dealer Upcard: 3 | Hit Win: 12.6% | Stand Win: 51.2%
+  Dealer Upcard: 4 | Hit Win: 14.2% | Stand Win: 51.6%
+  Dealer Upcard: 5 | Hit Win: 14.4% | Stand Win: 55.2%
+  Dealer Upcard: 6 | Hit Win: 15.0% | Stand Win: 55.8%
+  Dealer Upcard: 7 | Hit Win: 14.9% | Stand Win: 65.3%
+  Dealer Upcard: 8 | Hit Win: 16.1% | Stand Win: 41.1%
+  Dealer Upcard: 9 | Hit Win: 15.0% | Stand Win: 36.4%
+  Dealer Upcard: 10 | Hit Win: 14.1% | Stand Win: 31.7%
+
+
+Player's Score: 19
+  Dealer Upcard: 1 | Hit Win: 10.2% | Stand Win: 30.7%
+  Dealer Upcard: 2 | Hit Win: 9.0% | Stand Win: 62.7%
+  Dealer Upcard: 3 | Hit Win: 12.2% | Stand Win: 63.1%
+  Dealer Upcard: 4 | Hit Win: 11.9% | Stand Win: 63.4%
+  Dealer Upcard: 5 | Hit Win: 12.4% | Stand Win: 67.1%
+  Dealer Upcard: 6 | Hit Win: 11.8% | Stand Win: 65.4%
+  Dealer Upcard: 7 | Hit Win: 11.3% | Stand Win: 74.0%
+  Dealer Upcard: 8 | Hit Win: 13.1% | Stand Win: 75.2%
+  Dealer Upcard: 9 | Hit Win: 13.3% | Stand Win: 49.0%
+  Dealer Upcard: 10 | Hit Win: 10.2% | Stand Win: 41.6%
+
+
+Player's Score: 20
+  Dealer Upcard: 1 | Hit Win: 6.6% | Stand Win: 40.5%
+  Dealer Upcard: 2 | Hit Win: 9.3% | Stand Win: 75.5%
+  Dealer Upcard: 3 | Hit Win: 8.4% | Stand Win: 76.7%
+  Dealer Upcard: 4 | Hit Win: 8.7% | Stand Win: 75.8%
+  Dealer Upcard: 5 | Hit Win: 8.5% | Stand Win: 78.4%
+  Dealer Upcard: 6 | Hit Win: 8.1% | Stand Win: 77.6%
+  Dealer Upcard: 7 | Hit Win: 7.5% | Stand Win: 82.8%
+  Dealer Upcard: 8 | Hit Win: 8.5% | Stand Win: 83.5%
+  Dealer Upcard: 9 | Hit Win: 8.5% | Stand Win: 84.8%
+  Dealer Upcard: 10 | Hit Win: 8.4% | Stand Win: 53.8%
+
+
+Player's Score: 21
+  Dealer Upcard: 1 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 2 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 3 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 4 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 5 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 6 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 7 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 8 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 9 | Hit Win: 0.0% | Stand Win: 0.0%
+  Dealer Upcard: 10 | Hit Win: 0.0% | Stand Win: 0.0%
+
+
