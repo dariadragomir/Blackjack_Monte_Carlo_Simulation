@@ -72,7 +72,6 @@ if __name__ == "__main__":
     probabilities = monte_carlo_blackjack(N_SIMULATIONS)
     print(probabilites)
 
-
 for sum in range(2, 21):
     print(f"Player's Sum: {sum}")
     for upcard in range(1, 11):
@@ -80,4 +79,3 @@ for sum in range(2, 21):
         stand_prob = probabilites[sum][upcard]['stand']
         print(f"  Dealer Upcard: {upcard} | Hit Probability: {hit_prob:.4f} | Stand Probability: {stand_prob:.4f}")
     print("\n")
-    
