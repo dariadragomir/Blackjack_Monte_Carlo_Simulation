@@ -15,12 +15,6 @@ number_simulations = {
         } for score in range(2, 22)
 }
 
-convergence_data = {
-    score: {upcard: {'hit': [], 'stand': []} 
-            for upcard in range(1, 11)
-        } for score in range(2, 22)
-}
-
 def find_best_score(score):
     #in case we have an ace, we can use it as 1 or 11
     score_1 = score
@@ -46,7 +40,7 @@ def simulate_blackjack():
 
     if 1 in dealer_hand and find_best_score(dealer_score) == 21:
         is_a_win = 0
-    if 1 in player_hand and  find_best_score(player_score) == 21:
+    elif 1 in player_hand and  find_best_score(player_score) == 21:
         is_a_win = 1 
     else:
         #we will choose either to hit or to stand with a probability of 50%
@@ -96,13 +90,13 @@ def monte_carlo_blackjack(n_simulations):
         result, initial_player_score, initial_show_card, action = simulate_blackjack()
         probabilites[initial_player_score][initial_show_card][action] += result
         number_simulations[initial_player_score][initial_show_card][action] += 1
+    
     for score in probabilites.keys():
         for upcard in probabilites[score].keys():
             for act in ['hit', 'stand']:
                     if number_simulations[score][upcard][act] > 0:
                         prob = probabilites[score][upcard][act] / number_simulations[score][upcard][act]
                         probabilites[score][upcard][act] = prob
-                        convergence_data[score][upcard][act].append(prob)
 
     return probabilites
     
@@ -116,6 +110,6 @@ if __name__ == "__main__":
             for upcard in range(1, 11):
                 hit_prob = probabilites[score][upcard]['hit']
                 stand_prob = probabilites[score][upcard]['stand']
-                file.write(f"  Dealer Upcard: {upcard} | Hit Probability: {100*hit_prob:.1f}% | Stand Probability: {100*stand_prob:.1f}%\n")
+                file.write(f"  Dealer Upcard: {upcard} | Hit Probability: {100*hit_prob:.1f}% | Stand Probability: {100*stand_prob:.1f}% | Win Probability: {(100*hit_prob)+(100*stand_prob):.1f}%\n")
             file.write("\n\n")
     
