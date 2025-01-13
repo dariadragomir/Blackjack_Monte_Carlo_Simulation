@@ -10,7 +10,7 @@ The player's goal is to have a hand value closer to 21 than the dealer without e
 
 The dealer must draw until their hand value is at least 17.
 
-Possible outcomes for the player are Win (+1), Lose (-1), or Draw (0).
+Possible outcomes for the player are Win (1), Lose (0).
 
 - The probability of drawing a card tends to decrease as the player's hand total increases because higher totals are closer to 21, making the risk of going over (busting) higher.
 - For smaller hands (e.g., 2–11), the probability of drawing a card is usually higher, as players aim to get closer to 21, while standing is riskier.
